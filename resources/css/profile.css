@@ -1,0 +1,15 @@
+.user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    font-size: 2rem;
+    color: rgba(255, 255, 255, 0.603);
+    margin: 20px 15px;
+}
+
+.nick{
+    font-size: 1.5rem;
+}

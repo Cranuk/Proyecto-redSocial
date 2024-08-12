@@ -1,0 +1,48 @@
+.avatar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.is-post{
+    justify-content: flex-start;
+    gap: 0.5rem;
+    padding: 10px;
+}
+
+.avatar-background-color{
+    background-color: #2a9d8f;
+}
+
+.avatar-size-medium{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.avatar-size-big{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+
+.avatar-post-name{
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.avatar-letter-small{
+    font-size: 1.1rem;
+    color: white;
+}
+
+.avatar-letter-medium{
+    font-size: 2rem;
+    color: white;
+}
+
+.avatar-letter-big{
+    font-size: 5rem;
+    color: white;
+}

@@ -1,0 +1,52 @@
+.post-image{
+    width: 32rem;
+    height: 32rem;
+}
+
+.post-image-like{
+    width: 20rem;
+    height: 20rem;
+}
+
+.post-tools{
+    width: fit-content;
+    margin: 10px 0px;
+    margin-left: 15px;
+}
+
+.post-tool-image{
+    width: 20px;
+}
+
+.post-tool-image-2{
+    width: 16px;
+}
+
+.action-tool{
+    display: flex;
+    gap: 10px;
+    margin-top: 12px;
+}
+
+.post-user{
+    margin-right: 5px;
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.603);
+}
+
+.post-count{
+    font-size: 0.7rem;
+    color: white;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.post-comment{
+    margin: 5px 15px;
+    font-size: 0.9rem;
+    color: white;
+}
+
+.post-pagination{
+    margin-top: 50px;
+}
