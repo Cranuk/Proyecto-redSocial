@@ -1,7 +1,7 @@
-## Laravel-proyecto de red social
+## Proyecto-redSocial
 SW que simula una red social parecida a instagram con algunas funcionalidades principales
 
-## funciones principales
+## Funciones del SW
 <ul>
     <li>CRUD de usuario</li>
     <li>CRUD de imagenes</li>
