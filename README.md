@@ -1,5 +1,5 @@
 ## Proyecto-redSocial
-SW que simula una red social parecida a instagram con algunas funcionalidades principales
+SW que simula una red social parecida a instagram con algunas de las funcionalidades principales
 
 ## Funciones del SW
 <ul>
