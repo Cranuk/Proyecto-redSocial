@@ -2,8 +2,9 @@
 SW que simula una red social parecida a instagram con algunas funcionalidades principales
 
 ## funciones principales
-CRUD de usuario
-CRUD de imagenes
-CRUD de comentarios
-Like y dislike
-
+<ul>
+    <li>CRUD de usuario</li>
+    <li>CRUD de imagenes</li>
+    <li>CRUD de comentarios</li>
+    <li>Like y dislike</li>
+</ul>
