@@ -1,4 +1,4 @@
-var url = 'http://laravelinstagram/';
+var url = 'http://proinstagramlaravel/';
 
 window.addEventListener('load', function(){
 
